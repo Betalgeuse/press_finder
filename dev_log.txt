@@ -1,0 +1,22 @@
+5.24.2023
+-http 429 error wasn't fixed by time.sleep()
+Intruding getting_header in to the source file for potential 429 error to tell how much time i have to wait.
+
+-Aquisition information often leads to outside articles
+Considered as a stable version Upper aim has transferred on press_finder_v2
+
+-Aquisition information is held prior than the homepage's landing page.
+Complex consdieration process is needed what prior must be held upon various circumstances.
+When should the macro should give landing page and when should it give aquisition info?
+maybe it is influenced by the num value. current numvalue of v 1.0 is num=5
+
+-Pasting csv url is pain. plan to build input UI later.
+
+-Why does the first result output is "Press release link"?
+
+-changed num=3
+
+-aquired mechanism should be serach=is {company name} aquired query with string output.
+-should aquier info should be through bing ai?
+-v1.0 cannot compare funding and aquisition
+-git commit required
